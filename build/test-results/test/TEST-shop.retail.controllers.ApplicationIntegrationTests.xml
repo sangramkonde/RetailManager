@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="shop.retail.controllers.ApplicationIntegrationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-06-27T02:59:26" hostname="Sangram-PC" time="7.245">
+  <properties/>
+  <testcase name="testResponseJson" classname="shop.retail.controllers.ApplicationIntegrationTests" time="3.651"/>
+  <testcase name="testAddShop" classname="shop.retail.controllers.ApplicationIntegrationTests" time="3.533"/>
+  <testcase name="testApplicationStatus" classname="shop.retail.controllers.ApplicationIntegrationTests" time="0.06"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jun 27, 2017 8:29:30 AM com.google.maps.OkHttpRequestHandler handle
+INFO: Request: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyA0I0_VRGOuh-CFMjWBQGI2ZX7rfluxMtA&address=Address%2C222
+]]></system-err>
+</testsuite>

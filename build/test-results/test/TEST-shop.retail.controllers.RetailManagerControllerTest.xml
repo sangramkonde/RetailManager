@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="shop.retail.controllers.RetailManagerControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-27T02:59:35" hostname="Sangram-PC" time="0.088">
+  <properties/>
+  <testcase name="checkStatus" classname="shop.retail.controllers.RetailManagerControllerTest" time="0.088"/>
+  <system-out><![CDATA[
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.0.RELEASE)
+
+
+MockHttpServletRequest:
+      HTTP Method = GET
+      Request URI = /shop/
+       Parameters = {}
+          Headers = {Accept-Language=[en_IN]}
+
+Handler:
+             Type = shop.retail.controllers.RetailShopController
+
+Async:
+    Async started = false
+     Async result = null
+
+Resolved Exception:
+             Type = null
+
+ModelAndView:
+        View name = Retail Manager is running!
+             View = null
+            Model = null
+
+FlashMap:
+       Attributes = null
+
+MockHttpServletResponse:
+           Status = 200
+    Error message = null
+          Headers = {}
+     Content type = null
+             Body = 
+    Forwarded URL = Retail Manager is running!
+   Redirected URL = null
+          Cookies = []
+
+MockHttpServletRequest:
+      HTTP Method = GET
+      Request URI = /shop/
+       Parameters = {}
+          Headers = {Accept-Language=[en_IN]}
+
+Handler:
+             Type = shop.retail.controllers.RetailShopController
+
+Async:
+    Async started = false
+     Async result = null
+
+Resolved Exception:
+             Type = null
+
+ModelAndView:
+        View name = Retail Manager is running!
+             View = null
+            Model = null
+
+FlashMap:
+       Attributes = null
+
+MockHttpServletResponse:
+           Status = 200
+    Error message = null
+          Headers = {}
+     Content type = null
+             Body = 
+    Forwarded URL = Retail Manager is running!
+   Redirected URL = null
+          Cookies = []
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
